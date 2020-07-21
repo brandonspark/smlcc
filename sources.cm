@@ -1,0 +1,14 @@
+Group is 
+    $smlnj/compiler/current.cm
+    $SMLNJ-LIB/Util/smlnj-lib.cm
+    $/basis.cm
+    LEXER.sig
+    Lexer.sml
+    
+    PARSER.sig
+    Parser.sml
+
+    GENERATOR.sig
+    Generator.sml
+
+    MkTest.sml
